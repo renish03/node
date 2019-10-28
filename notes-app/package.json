@@ -1,0 +1,16 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "this is notes-app demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "renish faldu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.1.0",
+    "yargs": "^14.2.0"
+  }
+}
